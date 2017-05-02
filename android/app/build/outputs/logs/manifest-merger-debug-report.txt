@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:2:5-43
+		INJECTED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.41.2] F:\Android\VD\.android\build-cache\c6cc19071899e4d256a01533d9d0ada70a93a0c7\output\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [reactNativeBeaconExample:react-native-beacons-manager:unspecified] F:\React-Native\reactNativeBeaconExample\node_modules\react-native-beacons-manager\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.41.2] F:\Android\VD\.android\build-cache\c6cc19071899e4d256a01533d9d0ada70a93a0c7\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] F:\Android\VD\.android\build-cache\f3a53ebc568c9db7dd3c9aae45c4e59c5bfb613e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] F:\Android\VD\.android\build-cache\889104d3287c62cbd4a86264787f8237101ab659\output\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] F:\Android\VD\.android\build-cache\cfcc0902f60634b0f6932f634f41b4a9f623de72\output\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:0.11.0] F:\Android\VD\.android\build-cache\cf86cb1ebe73c1d7a6b5abbb09f2eaa343ec2e6f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.11.0] F:\Android\VD\.android\build-cache\4396537b69359dc85d0a2f2439547dd0c8c06dcb\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:0.11.0] F:\Android\VD\.android\build-cache\0ec902eb7aa7b9f2a06f40cb054ced7c18609c37\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.11.0] F:\Android\VD\.android\build-cache\01d6eef3928cc3b658c1bbf9c5e7dfc210ef50e4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.11.0] F:\Android\VD\.android\build-cache\bb75c388fd33e0db1f004e6e08c11a005229cf46\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.4.0] F:\Android\VD\.android\build-cache\410c078b120890336f521aeb657de7efdf90936e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.11.0] F:\Android\VD\.android\build-cache\368c1e35ab0adcd40578123d33a15dba09e417dc\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] F:\Android\VD\.android\build-cache\d9c0c02f5ff5854165c9cedc58a647c7ba87be64\output\AndroidManifest.xml:2:3-70
+	android:targetSdkVersion
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:10:9-35
+		INJECTED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml
+		INJECTED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:13:5-29:19
+MERGED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:21:5-40:19
+MERGED from [com.facebook.react:react-native:0.41.2] F:\Android\VD\.android\build-cache\c6cc19071899e4d256a01533d9d0ada70a93a0c7\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] F:\Android\VD\.android\build-cache\f3a53ebc568c9db7dd3c9aae45c4e59c5bfb613e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\Android\VD\.android\build-cache\410c078b120890336f521aeb657de7efdf90936e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] F:\Android\VD\.android\build-cache\d9c0c02f5ff5854165c9cedc58a647c7ba87be64\output\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] F:\Android\VD\.android\build-cache\c9c063b88c1b2a3820a9ec0482bd7058fb840fbb\output\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:16:7-39
+	android:allowBackup
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:15:7-33
+	android:icon
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:17:7-41
+	android:theme
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:14:7-38
+activity#com.reactnativebeaconexample.MainActivity
+ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:19:7-27:18
+	android:label
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:21:9-41
+	android:configChanges
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:20:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:23:9-26:25
+action#android.intent.action.MAIN
+ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:24:21-62
+category#android.intent.category.LAUNCHER
+ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:25:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:28:7-84
+	android:name
+		ADDED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:28:17-81
+uses-permission#android.permission.BLUETOOTH
+ADDED from [reactNativeBeaconExample:react-native-beacons-manager:unspecified] F:\React-Native\reactNativeBeaconExample\node_modules\react-native-beacons-manager\android\build\intermediates\bundles\default\AndroidManifest.xml:11:5-68
+MERGED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [reactNativeBeaconExample:react-native-beacons-manager:unspecified] F:\React-Native\reactNativeBeaconExample\node_modules\react-native-beacons-manager\android\build\intermediates\bundles\default\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [reactNativeBeaconExample:react-native-beacons-manager:unspecified] F:\React-Native\reactNativeBeaconExample\node_modules\react-native-beacons-manager\android\build\intermediates\bundles\default\AndroidManifest.xml:12:5-74
+MERGED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [reactNativeBeaconExample:react-native-beacons-manager:unspecified] F:\React-Native\reactNativeBeaconExample\node_modules\react-native-beacons-manager\android\build\intermediates\bundles\default\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:17:22-78
+uses-permission-sdk-23
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:19:5-88
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:19:29-85
+receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:22:19-87
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:24:17-79
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:24:25-76
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:25:17-87
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:25:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:26:17-90
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:26:25-87
+service#org.altbeacon.beacon.service.BeaconService
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:30:9-35:38
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:32:13-35
+	android:label
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:33:13-37
+	android:isolatedProcess
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:31:13-70
+service#org.altbeacon.beacon.BeaconIntentProcessor
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\AndroidManifest.xml:37:13-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from F:\React-Native\reactNativeBeaconExample\android\app\src\main\AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="imagepipeline-okhttp-0.6.1">
+    <CLASSES>
+      <root url="file://F:/Android/VD/.android/build-cache/22b0519cfb2978d43b6ae2ecb970dcb5c535fcaf/output/res" />
+      <root url="jar://F:/Android/VD/.android/build-cache/22b0519cfb2978d43b6ae2ecb970dcb5c535fcaf/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/imagepipeline-okhttp/0.6.1/ee6d873084ef35bc972e42103c5ae17475e9bab5/imagepipeline-okhttp-0.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

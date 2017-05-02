@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonah-pc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1_585573b3f03917ad74efcfe29d1cee0c0a103aca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\410c078b120890336f521aeb657de7efdf90936e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_7573e58997a8548faf8702397c6cf4d99554f685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonah-pc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_09a5657bb10093f4c1efbc7477315fe7957a6510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\React-Native\reactNativeBeaconExample\node_modules\react-native-beacons-manager\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6122b2dbf5601bf139d30982e99ea52c2a220512">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_99d46dba88c3b9d0a7d0a2e658a54ee6aa69c8c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonah-pc\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0_8197e333d9ea1ce859b3acd4833d97a74baa4255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_8028dfe3be197b741d6cb061f70adbc0413dc2bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\0ec902eb7aa7b9f2a06f40cb054ced7c18609c37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_b94bf20f0a7cf4c9c4e5d9f610ec42dd69f9897c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonah-pc\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_7d921f9ae5a4d6572009cd2c180ad3fcae21d4aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\01d6eef3928cc3b658c1bbf9c5e7dfc210ef50e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_8c6715cadc69f9ee7c2db5698af200ff3854191f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonah-pc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1_7e8b1f3528abd30c53c07d1936809a0204e67eb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\cfcc0902f60634b0f6932f634f41b4a9f623de72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_d4406b6fac33b62583ad681d550aa78d3bf9db33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\c6cc19071899e4d256a01533d9d0ada70a93a0c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_f89cbfd16a9085db88b7ba312c9c310f90e6fdb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\c6cc19071899e4d256a01533d9d0ada70a93a0c7\output\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_91c39de2ff7476ef8ecaa6b3df1c4d06e8d122eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonah-pc\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_4bcc054cefecaea0f48df51922219905872dace5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\889104d3287c62cbd4a86264787f8237101ab659\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_bfdb2b064d9319249e01c681696d2bbaeacc5529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\4396537b69359dc85d0a2f2439547dd0c8c06dcb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_830c80e13858af288edb0a0d1d265b1dc2747fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonah-pc\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_80e2ddc3d4c09fb9ed75e071b02c2cd66a459bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\61c1328b42ce5b1e21bc086132db3aba22f5a7f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1c4132dd2d386a819199b7e738c4d6e60897670">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_d9f81a8e38b2f89ff00cbc404d206f1a4f0dcf91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\d9c0c02f5ff5854165c9cedc58a647c7ba87be64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_00a780fceff644ac26461027fc0847ce065d25f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\cf86cb1ebe73c1d7a6b5abbb09f2eaa343ec2e6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_4766adb941c7d7174c76b5ee71a82a38977ca0ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonah-pc\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_39643ea04bcafe5104f079e5a24b5c033a7eb11b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\f3a53ebc568c9db7dd3c9aae45c4e59c5bfb613e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_08aca5ab8ca62e77705026dcd3cedffda42ead46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\410c078b120890336f521aeb657de7efdf90936e\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_4ea9aee877c09a97edec7e69a56bcc6e10bf5724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\bb75c388fd33e0db1f004e6e08c11a005229cf46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_358248f81062096eb2998c529d5aebc4d3da010b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\VD\.android\build-cache\368c1e35ab0adcd40578123d33a15dba09e417dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\classes_59e2148958cfbae4ef747a0daba1f062c21cccb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jonah-pc\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="F:\React-Native\reactNativeBeaconExample\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_23b764ef7e583628146cfe96ce2c28cab72293e7.jar" />
+    </item>
+
+</items>
